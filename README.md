@@ -1,1 +1,1 @@
-# Web-Application-Automation-Practice-Program5
+# Desktop-Application-Automation-Practice-Program5
